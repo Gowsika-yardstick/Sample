@@ -1,1 +1,2 @@
-# Sample
+# Functional requirements
+## calculator app
